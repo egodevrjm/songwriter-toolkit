@@ -1,1 +1,19 @@
-Rock harmony retains the genre’s deep ties to blues and early rhythm‑and‑blues.  Many songs are built on the 12‑bar blues progression, which uses the I, IV and V chords in a cyclical pattern to create tension and release【877073196254006†L126-L156】.  Within this form, the first two four‑bar phrases often repeat both the melody and lyrics, while the third phrase answers them—a question–question–answer pattern known as the AAB structure【940968025803547†L96-L123】.  In an AAB verse, the first and second lines are nearly identical; the third line, or refrain, responds to or comments on the earlier statements【940968025803547†L96-L123】.  The harmonic movement typically places the I chord in the first phrase, introduces the IV chord in the second and features the V chord in the refrain, resolving back to the I【940968025803547†L126-L134】.  Beyond blues, rock employs modal riffs and power chords to emphasise energy and attitude, and guitarists often use pentatonic scales and chromatic embellishments to create driving melodic hooks.
+# Rock Harmony Playbook
+
+## Mission
+Support riff-driven songwriting with harmonies that reinforce energy, attitude, and vocal lift.
+
+## Best Practices
+- Start from riff center and derive chords.
+- Use modal borrowing for edge (♭VII, ♭VI colors).
+- Save harmonic surprises for bridge or pre-chorus lift.
+
+## LLM Workflow
+- Output chord + riff dual notation ideas.
+- Give chorus-lift alternatives (register, inversion, borrowed chord).
+- Add lead-target notes for solo section.
+
+## Evaluation Rubric
+- Riff-harmony coherence
+- Chorus lift effectiveness
+- Live playability

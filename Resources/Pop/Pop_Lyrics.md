@@ -1,1 +1,32 @@
-Pop lyrics succeed when they are concise, vivid and relatable.  Songwriting resource Tunedly recommends crafting titles that double as hooks; titles should be short—often no more than six words—and may describe emotions, paint pictures or use slang to catch the ear【324064737042633†L88-L100】.  Writers frequently begin with the chorus or hook, then build verses around that central idea, keeping lines simple and focused on a single theme【324064737042633†L176-L183】.  Rhyme schemes vary, but alternate (ABAB), enclosed (ABBA), couplet (AABB) and monorhyming (AAAA) patterns are common【324064737042633†L187-L198】.  Slant rhymes help maintain natural flow and avoid awkward wording, as Unison’s guide points out【491811029182369†L335-L371】.  Using metaphors, similes and personification enriches imagery, while repeated catchphrases in the chorus ensure the song lodges in listeners’ minds.  Above all, pop lyrics prioritise emotional clarity over complexity, inviting audiences to sing along and feel understood.
+# Pop Lyrics Playbook
+
+## Mission
+Write instantly memorable, emotionally precise lyrics that sound natural in conversation and magnetic in chorus repetition.
+
+## Genre DNA
+- **Clarity first:** one emotional thesis per song.
+- **Hook-led writing:** title phrase should be singable in one breath.
+- **Modern diction:** avoid over-poetic language unless it serves character.
+
+## Best Practices
+1. Start from a 1-line premise: `I want X, but Y keeps happening`.
+2. Write chorus before Verse 2 (so narrative points toward payoff).
+3. Keep chorus stress pattern consistent across repeats.
+4. Use one signature image per verse (e.g., neon receipt, 2AM voicemail).
+
+## LLM Workflow
+- Generate 15 hook candidates grouped by mood.
+- Draft Verse/Pre/Chorus with syllable counts.
+- Run a simplification pass (remove abstract words, keep emotional impact).
+- Run a singability pass (open vowels on high notes).
+
+## Anti-Patterns
+- Metaphor stacking in every line.
+- Rhyming for rhyme’s sake.
+- Verse details that do not move the emotional plot.
+
+## Evaluation Rubric
+- Hook memorability (1-10)
+- Emotional specificity (1-10)
+- Vocal phrasing fit (1-10)
+- Quotable lines count (target: 2+)

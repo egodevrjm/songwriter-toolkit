@@ -1,1 +1,26 @@
-The sonic palette of modern pop blends acoustic and electronic elements to create polished, radio‑friendly textures.  Guitars and pianos often provide the harmonic backbone, while drums and bass establish groove.  Synthesizers contribute pads, leads and electronic flourishes, and producers layer vocal harmonies to add richness.  Effects such as reverb and delay shape the spatial character, and pitch‑correction tools like Auto‑Tune smooth intonation and create stylistic timbres.  Contemporary pop production frequently pairs programmed drums with live percussion and incorporates sampling, modulation and sound design techniques to keep arrangements fresh.  By combining organic instruments with digital processing, pop producers achieve a balance of warmth, clarity and modern sheen.
+# Pop Instrumentation Playbook
+
+## Mission
+Create polished, vocal-forward arrangements with clear frequency ownership.
+
+## Core Stack
+- Drums: tight transient design.
+- Bass: mono-compatible sub foundation.
+- Harmony: piano/guitar/synth bed.
+- Signature hook element: lead synth, guitar motif, or vocal chop.
+- Vocal support: doubles, harmonies, ad-lib architecture.
+
+## Best Practices
+- Introduce elements progressively.
+- Keep lead vocal lane clear in 1-4 kHz.
+- Use automation as macro storytelling (width, filter, ambience).
+
+## LLM Workflow
+- Output instrument entry map by section.
+- Provide register ownership chart.
+- Suggest subtractive mix plan: what to mute first when crowded.
+
+## Evaluation Rubric
+- Vocal clarity under full chorus stack
+- Hook timbre uniqueness
+- Translation on earbuds + phone speaker

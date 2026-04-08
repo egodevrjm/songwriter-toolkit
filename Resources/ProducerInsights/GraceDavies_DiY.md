@@ -1,1 +1,14 @@
-Grace Davies exemplifies the do‑it‑yourself spirit of modern songwriting and production.  She recalls learning to trust her rough production stems; after receiving compliments from collaborators, she realised that her unpolished tracks sometimes captured emotional authenticity better than those refined by other producers【623067314010298†L84-L97】.  This recognition boosted her confidence and solidified her identity as a producer【623067314010298†L96-L104】.  Davies encourages spending time in the studio simply to explore and play with ideas, noting that this freedom fosters creativity and enjoyment【623067314010298†L117-L123】.  She occasionally skips the formal mixing stage, instead focusing on capturing performances and using tools like iZotope RX to clean vocals【623067314010298†L127-L146】.  Her approach underscores the value of intuition and independence in a landscape where technology empowers artists to craft their own sound.
+# Producer Insight: Grace Davies DIY Mindset
+
+## Core Lesson
+Authentic early demos can outperform over-polished drafts when emotion is strong.
+
+## Actionable Takeaways
+- Capture ideas quickly before over-arranging.
+- Trust rough production if the feeling is right.
+- Polish only what improves communication.
+
+## LLM Application
+- Generate "demo-first" arrangements with low layer count.
+- Add optional polish pass after lyric/melody lock.
+- Keep vocal emotion as primary success metric.

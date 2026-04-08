@@ -1,1 +1,22 @@
-Rock music builds on the verse–chorus forms of pop but adds instrumental flair and improvisation.  While many rock songs follow the familiar pattern of verses alternating with choruses, they often include guitar or instrumental solos that serve as expressive breaks between vocal sections【877073196254006†L126-L156】.  The genre’s roots in blues and folk mean that some compositions use 12‑bar blues progressions or strophic structures in which the same melody recurs with different lyrics【877073196254006†L126-L156】.  A&R Factory notes that rock arrangements revolve around drums, rhythm and lead guitars, bass and vocals, with occasional saxophones, violins or theremins broadening the texture【262725878057214†L16-L92】.  Rock performances frequently emphasize dynamics—building from soft verses to loud choruses—and may include improvisational sections where musicians trade solos before returning to the main theme.  This blend of structure and spontaneity gives rock its powerful drive and enduring appeal.
+# Rock Structure Playbook
+
+## Mission
+Build dynamic, performance-ready structures with clear peaks and memorable returns.
+
+## Baseline Form
+Riff Intro → Verse → Chorus → Verse → Chorus → Solo/Bridge → Final Chorus/Outro.
+
+## Best Practices
+- Identify track signature in first 8 bars.
+- Use loud/quiet contrast intentionally.
+- Place solo where emotional energy needs expansion.
+
+## LLM Workflow
+- Generate studio and live arrangement variants.
+- Add crowd-participation opportunities.
+- Offer 3 outro options (tag, vamp, hard stop).
+
+## Evaluation Rubric
+- Energy arc
+- Section differentiation
+- Stage translation

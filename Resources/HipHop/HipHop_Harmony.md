@@ -1,1 +1,19 @@
-Hip‑hop’s harmonic language borrows from jazz, soul and R&B, pairing complex chord functions with repetitive loops.  Native Instruments identifies several progressions that underpin popular rap beats: ii–V–I sequences (such as D minor–G major–C major) lend a smooth, jazzy feel; i–III–VI–VII patterns (for example A minor–C major–F major–G major) are common in melodic trap; i–VI–v–i cycles (A minor–F major–E minor–A minor) create dark, hypnotic moods; and III–i and i–VI–VII–iv loops provide alternative colours【6545771409103†L167-L312】.  Producers often extend these chords with sevenths or ninths to add richness.  Because hip‑hop emphasises rhythm and flow, progressions usually repeat throughout the track, leaving space for lyrical development and rhythmic variation.  Subtle chord substitutions or modulations may be introduced in bridges or hooks to heighten tension before returning to the main loop.
+# Hip-Hop Harmony Playbook
+
+## Mission
+Support rhythm-first vocal writing with loopable harmony that leaves space for drums and bass impact.
+
+## Best Practices
+- Keep harmonic rhythm sparse for dense flow sections.
+- Use extensions (7/9/11) for color without clutter.
+- Differentiate hook with voicing width or bass shift.
+
+## LLM Workflow
+- Request 2-chord, 3-chord, and 4-chord loop options.
+- Output voicing tiers: minimal / rich / cinematic.
+- Add optional hook reharm while preserving key center.
+
+## Evaluation Rubric
+- Vocal space preservation
+- Loop hypnosis factor
+- Hook contrast effectiveness

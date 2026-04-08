@@ -1,1 +1,22 @@
-Electronic dance music structures songs around tension and release.  EDM Tips outlines a typical arrangement: a 16‑bar intro gradually layers elements, a 16‑bar verse introduces the main melodic motif, an 8‑bar build‑up increases energy with rising filter sweeps and rhythmic acceleration, and an 8‑ to 16‑bar drop unleashes the full beat and bass【229190832173973†L54-L79】.  Sections are usually multiples of eight bars to align with DJ beat‑matching, and variations may include breakdowns, second builds and drops or extended outros.  Energy management is crucial; producers modulate dynamics and instrumentation to keep listeners engaged, ensuring that each drop feels like a payoff after an escalating build【229190832173973†L154-L175】.  This cyclical pattern underpins many EDM subgenres, from progressive house to dubstep.
+# EDM Structure Playbook
+
+## Mission
+Engineer DJ-friendly structures with predictable phrasing and high-impact release moments.
+
+## Baseline Form
+Intro (16-32) → Theme (16) → Build (8-16) → Drop (16-32) → Breakdown (8-16) → Build 2 → Drop 2 → Outro (16).
+
+## Best Practices
+- Keep phrase lengths in 8-bar multiples.
+- Make second drop an escalation, not a copy.
+- Use breakdown to reset frequency and emotional density.
+
+## LLM Workflow
+- Generate bar-accurate arrangement with FX cues.
+- Output radio edit (<3:30) and extended DJ mix (>5:00).
+- Add transition risk checks for live mixing.
+
+## Evaluation Rubric
+- Build-to-drop payoff
+- DJ usability
+- Drop differentiation

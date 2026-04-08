@@ -1,1 +1,19 @@
-EDM harmony serves as a scaffold for rhythm and sound design.  Native Instruments highlights several progressions that appear across dance hits: the minor‑key cycle i–III–VII–VI creates a sense of upward movement before returning to the tonic; i–VI–iv and i–VI–VII are three‑chord patterns that build tension and then resolve back to the starting chord; the pop‑standard progression I–V–vi–IV remains effective in EDM contexts; and VI–IV–V–I rearranges the same chords so that the tonic arrives at the end【119998732075662†L201-L327】.  These sequences are often played on synthesizers or sampled chords and looped throughout the track.  Producers add interest by varying voicings, automating filters or layering arpeggiated patterns.  Harmonic simplicity allows the focus to remain on rhythm, texture and the emotional arc of the build and drop.
+# EDM Harmony Playbook
+
+## Mission
+Deliver loop-ready harmony that supports rhythmic drive, sound design, and tension/release cycles.
+
+## Best Practices
+- Keep loops simple; vary with voicing and automation.
+- Differentiate build vs. drop harmonic density.
+- Use minor-centric palettes for festival tension.
+
+## LLM Workflow
+- Output loop + bass-note strategy.
+- Provide build, drop, and breakdown voicing variants.
+- Suggest supersaw-safe spacing.
+
+## Evaluation Rubric
+- Long-loop durability
+- Drop clarity
+- Section contrast

@@ -1,1 +1,19 @@
-EDM production relies on digital tools to craft rhythmic and harmonic textures.  Soundverse’s electronic music guide explains that beats are built using drum samples or plugins that emulate classic machines like the Roland TR‑909 and 808; the kick drum dominates the low end and keeps the pulse consistent【335474477650316†L118-L121】.  Basslines are created with synthesizers such as Serum, Massive or Sylenth1, while melodic hooks and harmonic pads come from virtual synths【335474477650316†L124-L131】.  Arrangement techniques, including filter automation and FX sweeps, create build‑ups and drops and maintain listener interest【335474477650316†L134-L139】.  Mixing requires equalizers, compressors and limiters to balance frequencies and achieve club‑ready punch【335474477650316†L143-L145】.  Sidechaining, where the kick triggers compression on bass or pads, produces the signature pumping effect and enhances clarity【641486618988447†L93-L116】.  By leveraging these tools, producers sculpt dynamic, immersive soundscapes that drive dance floors.
+# EDM Instrumentation Playbook
+
+## Mission
+Build club-ready sonic stacks with controlled low end and high-energy transient design.
+
+## Best Practices
+- Assign each layer a frequency and rhythmic job.
+- Sidechain by groove intention, not habit.
+- Automate timbre across sections to avoid static repetition.
+
+## LLM Workflow
+- Output sound stack blueprint by section.
+- Provide sidechain routing and release targets.
+- Include CPU-light alternative arrangement.
+
+## Evaluation Rubric
+- Low-end translation
+- Drop punch
+- Automation musicality
