@@ -1,1 +1,26 @@
-Jazz vocalists treat lyrics as another instrument, embracing improvisation and spontaneity.  Herbie Hancock teaches that improvisation is about expressing the present moment and that there are no wrong notes【944352908378128†L79-L96】.  Singers often stretch or compress syllables to match the rhythmic feel, scatter scat syllables or spoken‑word phrases between lines and respond to instrumental solos.  Hancock encourages experimentation with free jazz, displaced rhythms and unstructured improvisation and stresses listening deeply to collaborators【944352908378128†L96-L143】.  Contrast and variety—shifting dynamics, register and timbre—keep performances engaging【944352908378128†L145-L151】.  While jazz standards may follow blues or AABA forms, vocalists have the freedom to bend meter and melody, making each rendition a fresh reinterpretation of the lyrics.
+# Jazz Lyrics Playbook
+
+## Objective
+Write flexible lyric lines that can survive rhythmic displacement, phrasing rubato, and improvisation.
+
+## Core Principles
+- Favor imagistic, emotionally layered language over literal exposition.
+- Keep lines metrically elastic so vocalists can stretch/compress phrase timing.
+- Leave interpretive room; ambiguity can invite reinterpretation.
+
+## Lyric Strategies
+- Internal echoes (repeated words with altered meaning).
+- Conversational asides for live phrasing freedom.
+- Strategic open vowels for sustained notes.
+
+## LLM Writing Guidance
+Prompt for:
+- Standard lyric version + “performance-flex” variant.
+- Optional scat or vocable placeholders.
+- Alternate endings for AABA restatements.
+- Two tonal modes: intimate club vs. theatrical standard.
+
+## Quality Checklist
+- Can lines be swung without breaking meaning?
+- Is diction singable across slower and medium tempos?
+- Do repeated phrases gain nuance each return?

@@ -1,1 +1,26 @@
-Jazz compositions rely on forms that enable both structure and freedom.  A typical arrangement begins with an introduction, followed by the head—the main melody—before musicians take turns improvising over the chord changes.  After solos, the head returns, and an outro concludes the piece【698993246575214†L39-L77】.  The head is often a 32‑bar AABA form or a variant such as AB, ABAC or AABC, where the A sections repeat the primary theme and the B section provides contrast【698993246575214†L39-L77】.  Another foundational form is the 12‑bar blues, consisting of three four‑bar phrases with chord movements from the tonic to the subdominant and dominant【698993246575214†L103-L121】.  These forms give musicians a common framework for improvisation while allowing each performance to be unique.
+# Jazz Structure Playbook
+
+## Objective
+Use formal templates that enable improvisation while maintaining thematic coherence.
+
+## Common Forms
+- 12-bar blues
+- 32-bar AABA
+- ABAC / through-composed variants
+
+## Structural Principles
+- State the head clearly before deep improvisation.
+- Solo order should create dynamic contour.
+- Return to head (or fragment) to close narrative loop.
+
+## LLM Planning Guidance
+Request:
+- Form map with chorus count and solo rotation.
+- Arrangement cues (trading 4s, shout chorus, breakdown).
+- Intro/outro concepts (rubato, vamp, tag ending).
+- Dynamic arc annotations per chorus.
+
+## Quality Checklist
+- Does the arrangement balance freedom and recognizability?
+- Are ensemble hits/cues explicitly marked?
+- Is ending strategy defined (tag, ritard, hard stop)?

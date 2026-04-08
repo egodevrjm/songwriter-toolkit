@@ -1,1 +1,31 @@
-Modern pop songs are built around the interplay between narrative development and catchy hooks.  A ubiquitous form is the verse–chorus structure, often arranged as ABABCB: an introductory section leads into a verse, a pre‑chorus builds tension, and the chorus delivers the emotional payoff before the pattern repeats and eventually introduces a bridge【877073196254006†L126-L156】.  Verses typically advance the story, while the chorus summarises the song’s theme and contains the hook that listeners remember【201057390826661†L69-L113】.  Earlier pop and jazz standards sometimes use the 32‑bar AABA form, in which two eight‑bar A sections present the main melody, a contrasting B section offers variation and a final A section returns to the original theme【877073196254006†L126-L156】.  Some pop songs omit the bridge altogether (ABAB structure) or repeat refrains (AABA), but in all cases the balance between tension and resolution guides the listener through a memorable narrative arc【587582073533333†L55-L70】.
+# Pop Structure Playbook
+
+## Objective
+Design a repeatable emotional arc that delivers hooks early and escalates by section.
+
+## Default Arrangement (Starter)
+- Intro: 4–8 bars
+- Verse 1: 8–16 bars
+- Pre-chorus: 4–8 bars
+- Chorus: 8 bars
+- Verse 2: 8–16 bars
+- Pre-chorus: 4–8 bars
+- Chorus: 8 bars
+- Bridge: 8 bars
+- Final chorus/outro: 8–16 bars
+
+## Structural Principles
+- Introduce the hook by ~0:45 for mainstream formats.
+- Increase energy each return (new harmony, ad-libs, percussion layers, octave doubles).
+- Use bridge to add **new information**, then reward with familiar chorus.
+
+## LLM Planning Guidance
+Request a structure plan with:
+- Bar counts, energy level (1–10), and production density by section.
+- Lyric objective per section.
+- Transition devices (drum fill, riser, stop-time, vocal pickup).
+
+## Quality Checklist
+- Does each section have a unique job?
+- Is there a clear peak moment in the final third?
+- Do transitions avoid dead air?

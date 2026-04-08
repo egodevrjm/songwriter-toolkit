@@ -1,1 +1,27 @@
-Rock harmony retains the genre’s deep ties to blues and early rhythm‑and‑blues.  Many songs are built on the 12‑bar blues progression, which uses the I, IV and V chords in a cyclical pattern to create tension and release【877073196254006†L126-L156】.  Within this form, the first two four‑bar phrases often repeat both the melody and lyrics, while the third phrase answers them—a question–question–answer pattern known as the AAB structure【940968025803547†L96-L123】.  In an AAB verse, the first and second lines are nearly identical; the third line, or refrain, responds to or comments on the earlier statements【940968025803547†L96-L123】.  The harmonic movement typically places the I chord in the first phrase, introduces the IV chord in the second and features the V chord in the refrain, resolving back to the I【940968025803547†L126-L134】.  Beyond blues, rock employs modal riffs and power chords to emphasise energy and attitude, and guitarists often use pentatonic scales and chromatic embellishments to create driving melodic hooks.
+# Rock Harmony Playbook
+
+## Objective
+Use bold harmonic movement that supports riffs, vocal power, and live energy.
+
+## Core Principles
+- Riff-first writing can drive harmonic choices.
+- Power-chord harmony often prioritizes momentum over complexity.
+- Modal borrowing adds edge without losing accessibility.
+
+## Common Moves
+- I–♭VII–IV for classic rock drive.
+- i–♭VI–♭VII for darker alternative moods.
+- 12-bar blues variants for roots-informed tracks.
+- Pedal-point riffs with moving upper power chords.
+
+## LLM Composition Guidance
+Ask for:
+- Chord/riff dual notation suggestions.
+- Chorus lift options (register, inversion, or borrowed chord).
+- Bridge contrast choices (half-time, key center shift, breakdown).
+- Lead guitar target tones over progression.
+
+## Quality Checklist
+- Do chords support the vocal register?
+- Is riff identity strong enough without vocals?
+- Does harmonic contrast reinforce section changes?
