@@ -1,1 +1,29 @@
-Multi‑persona prompting invites a language model to view a situation through several distinct lenses.  Dev.to’s 2025 prompt‑engineering article demonstrates this technique by asking the AI to evaluate a proposal from the perspectives of a conservative investor, a startup founder and a customer‑experience expert【363965567568704†L778-L797】.  Each persona offers a different analysis, showing that juxtaposing viewpoints can illuminate trade‑offs and generate balanced output.  For songwriting tasks, a similar approach could pair the insights of a jazz improviser with those of a pop producer, encouraging the model to suggest both spontaneous melodic twists and polished hook structures.  By framing each perspective clearly and providing context for the genre, multi‑persona prompts help models synthesise varied creative approaches while maintaining coherence.
+# Multi-Persona Prompting Examples for Songwriting
+
+## Purpose
+Use multiple creative perspectives to improve idea quality and reduce blind spots.
+
+## Recommended Persona Set
+- Story editor (narrative clarity)
+- Hook specialist (memorability)
+- Producer (arrangement feasibility)
+- Vocal coach (singability/prosody)
+
+## Workflow
+1. Generate independent critiques from each persona.
+2. Merge consensus recommendations.
+3. Resolve conflicts via explicit priority rules.
+4. Produce revised draft + change log.
+
+## Example Merge Rule
+If personas disagree:
+1) Preserve emotional truth,
+2) Preserve hook clarity,
+3) Preserve production feasibility,
+4) Preserve novelty.
+
+## Output Template
+- Persona feedback bullets
+- Consolidated rewrite plan
+- Revised lyrics/chords/structure
+- Final quality checklist

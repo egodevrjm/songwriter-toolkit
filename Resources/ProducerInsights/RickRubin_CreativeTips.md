@@ -1,1 +1,14 @@
-Rick Rubin, one of the most influential producers in rock, hip‑hop and country, advocates for creativity unbounded by rules.  He argues that adhering to established norms leads to average outcomes and urges artists to approach their work with as few preconceived limitations as possible【673925275325750†L130-L144】.  To spark inspiration, Rubin recommends embracing distractions—taking walks or washing dishes—to allow the subconscious mind to connect ideas【673925275325750†L112-L123】.  He advises collecting “seeds” of ideas without judging them and following the energy of the ones that excite you【673925275325750†L149-L160】.  Maintaining an abundant mindset is essential; Rubin believes that sharing ideas freely attracts more creative flow, whereas holding onto them stifles inspiration【673925275325750†L166-L176】.  His philosophy encourages openness, curiosity and trust in the creative process, empowering artists to break conventions and discover unique expressions.
+# Producer Insight: Rick Rubin Creative Principles
+
+## Core Lesson
+Reduce rules early, generate broadly, and evaluate later.
+
+## Actionable Takeaways
+- Collect idea seeds without immediate judgment.
+- Use environment shifts to unstick creative loops.
+- Follow energy: expand concepts that feel alive.
+
+## LLM Application
+- Run divergent ideation prompts before convergent editing.
+- Generate 20 micro-ideas, then shortlist 3 by emotional resonance.
+- Apply a late-stage minimalism pass.

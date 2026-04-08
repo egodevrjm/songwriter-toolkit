@@ -1,1 +1,15 @@
-Swedish super‑producer Max Martin approaches songwriting with scientific precision and a keen ear for phonetics.  He has explained that he chooses words for their sound rather than grammatical perfection; lines like “sadness is beautiful / loneliness is tragical” succeed because the phonetic flow makes them satisfying to sing【102576414856597†L115-L126】.  Martin carefully balances sections by matching syllable counts and contrasts dense lyrical passages with long, sustained notes to keep listeners engaged【102576414856597†L128-L133】.  Collaboration is central to his process: he works with writers and artists from diverse backgrounds to access stories and perspectives he could not provide himself【102576414856597†L135-L143】.  He also emphasizes that unique vocal timbres can elevate a song even if the singer lacks technical virtuosity【102576414856597†L145-L149】.  Together, these methods demonstrate that hit‑making is both an art and a quasi‑scientific pursuit of sounds that resonate with millions.
+# Producer Insight: Max Martin Methods
+
+## Core Lesson
+Phonetics, melodic contour, and section contrast often matter more than literal wording perfection.
+
+## Actionable Takeaways
+- Optimize lyric sound (vowels/consonants) for melodic delivery.
+- Shape contrast between dense and sparse melodic phrases.
+- Prioritize topline clarity over overcomplicated harmony.
+
+## LLM Application
+Ask model to produce:
+- Phonetic alternatives for key hook words.
+- Chorus melody contour options from same lyric.
+- Simpler wording pass without emotional loss.
