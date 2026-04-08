@@ -51,3 +51,14 @@ python3 tools/build_songwriting_corpus.py \
 - `Resources/Songwriting Playbook - Cross Genre.md` provides practical cross-genre writing systems for hooks, melody, lyrics, harmony, arrangement, rewrites, and LLM prompt templates.
 - `Resources/External Songwriting Guide Integrations.md` distills external songwriting guides and repository patterns into reusable exercises, workflows, and prompt templates.
 
+
+## Query the corpus (MVP retrieval)
+
+Use local retrieval to find relevant songwriting chunks and optionally generate an LLM-ready prompt pack:
+
+```bash
+python3 tools/query_songwriting_corpus.py   --query "anthemic pop chorus about regret"   --genre pop   --topic hooks   --top-k 5   --emit-prompt
+```
+
+This enables immediate prototyping without any external vector DB.
+
