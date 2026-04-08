@@ -1,1 +1,29 @@
-Pop lyrics succeed when they are concise, vivid and relatable.  Songwriting resource Tunedly recommends crafting titles that double as hooks; titles should be short—often no more than six words—and may describe emotions, paint pictures or use slang to catch the ear【324064737042633†L88-L100】.  Writers frequently begin with the chorus or hook, then build verses around that central idea, keeping lines simple and focused on a single theme【324064737042633†L176-L183】.  Rhyme schemes vary, but alternate (ABAB), enclosed (ABBA), couplet (AABB) and monorhyming (AAAA) patterns are common【324064737042633†L187-L198】.  Slant rhymes help maintain natural flow and avoid awkward wording, as Unison’s guide points out【491811029182369†L335-L371】.  Using metaphors, similes and personification enriches imagery, while repeated catchphrases in the chorus ensure the song lodges in listeners’ minds.  Above all, pop lyrics prioritise emotional clarity over complexity, inviting audiences to sing along and feel understood.
+# Pop Lyrics Playbook
+
+## Objective
+Write emotionally clear, memorable lines that feel conversational and singable on first listen.
+
+## Core Principles
+- Anchor the entire song to one **title/hook phrase** (usually 2–6 words).
+- Keep language concrete and current: one image per line beats abstract vocabulary.
+- Prioritize **vowel-friendly words** in chorus lines so they are easy to belt.
+- Use repetition intentionally: repeated phrases should increase emotional weight.
+
+## Useful Patterns
+- Verse: specific scene, time, or detail.
+- Pre-chorus: rising tension, unanswered question, or emotional pivot.
+- Chorus: hook + emotional thesis.
+- Post-chorus: chantable fragment that can loop over production.
+
+## LLM Writing Guidance
+When generating pop lyrics, ask the model to provide:
+1. A hook-first concept list (10 title candidates).
+2. A lyric draft with clear section labels.
+3. A second pass that simplifies diction by ~20%.
+4. Optional alternates for rhyme density (tight vs. conversational).
+
+## Quality Checklist
+- Can a listener summarize the chorus in one sentence?
+- Is there at least one vivid image in each verse?
+- Do syllable counts in repeated lines stay stable?
+- Would the chorus still work if spoken without music?

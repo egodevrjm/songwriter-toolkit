@@ -1,1 +1,28 @@
-Successful rap lyrics marry authentic storytelling with rhythmic and poetic sophistication.  Soundverse’s guide to rap writing urges artists to begin with a strong concept and to use vivid, real‑life imagery that grounds their words【727685441489565†L84-L90】.  Bars within a verse serve different functions: setup bars introduce a thought, punchline bars deliver a witty conclusion and transition bars link ideas【727685441489565†L98-L107】.  Skilled rappers vary their cadence every few bars, employing internal and slant rhymes as well as double entendres and word painting to keep listeners engaged【727685441489565†L110-L118】.  Flocabulary’s lesson on rhyme schemes shows how imperfect rhymes and off‑beat placements create more interesting patterns【137062482750214†L170-L229】.  The goal is to balance technical wordplay with emotional resonance—avoiding forced vocabulary or over‑rhyming—and to let the flow support the story being told.
+# Hip-Hop Flows Playbook
+
+## Objective
+Create cadence that feels rhythmic, intentional, and emotionally aligned with the beat.
+
+## Core Principles
+- Treat flow as drum programming with words.
+- Alternate density: dense internal rhyme passages vs. breathable pockets.
+- Place key words on downbeats/backbeats for emphasis.
+- Use rhyme families, not single end-rhyme chains.
+
+## Flow Design Patterns
+- Straight pocket (grid-aligned clarity).
+- Syncopated pocket (off-grid tension).
+- Double-time burst (energy spike before hook).
+- Half-time drag (heavier emotional weight).
+
+## LLM Flow Guidance
+Ask the model for:
+- 16-bar drafts with stressed syllables marked.
+- Two cadence versions over the same lyrics.
+- Internal rhyme map and multisyllable options.
+- Breath markers every 2–4 bars for performance realism.
+
+## Quality Checklist
+- Does cadence evolve every 4 bars?
+- Are punchlines rhythmically framed?
+- Is articulation feasible at target BPM?

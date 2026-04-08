@@ -1,1 +1,31 @@
-Rap songs are built around four‑beat bars that dictate the placement of rhymes and rhythms.  A typical hip‑hop arrangement begins with a short intro, then a hook leads into a 16‑bar verse.  Choruses usually last eight bars, pre‑choruses four bars and bridges eight bars【251650476594664†L241-L273】.  Verses and choruses alternate, allowing the narrative to unfold between repeated hooks, and a bridge or outro offers variation before the final chorus.  Modern hip‑hop often borrows from electronic music; producers incorporate build‑ups and drops to intensify momentum, creating climactic moments between verses.  Though structures vary widely between artists, adhering to bar lengths helps maintain rhythmic cohesion and makes it easier for performers to align their flows with the beat.
+# Hip-Hop Structure Playbook
+
+## Objective
+Balance replayability (strong hooks) with narrative momentum (verses that progress).
+
+## Common Form
+- Intro: 4–8 bars
+- Hook: 8 bars
+- Verse 1: 16 bars
+- Hook: 8 bars
+- Verse 2: 16 bars
+- Hook: 8 bars
+- Bridge / breakdown / feature: 8–16 bars
+- Final hook/outro: 8–16 bars
+
+## Structural Principles
+- Start quickly; dead intros reduce retention.
+- Make each verse add new perspective, stakes, or detail.
+- Use beat switches or dropouts only when they serve the story.
+
+## LLM Planning Guidance
+Ask for:
+- Bar map with cadence intent by section.
+- Hook wording variants for repetition without staleness.
+- Optional feature verse placement logic.
+- Performance notes (ad-libs, doubles, call-response moments).
+
+## Quality Checklist
+- Does Verse 2 reveal something new?
+- Is the hook phrasing short enough for memorability?
+- Are section lengths consistent with intended platform/runtime?

@@ -1,1 +1,27 @@
-Hip‑hop production is rooted in rhythm and sampling.  Soundverse’s overview of rap instrumentation explains that producers build beats with drum machines like the TR‑808 or TR‑909 and layer synthesizers for bass lines, pads and lead melodies【22303822534023†L35-L98】.  Samplers enable artists to chop and recontextualize vocal snippets, vinyl records or other recordings, creating signature loops and textures.  The booming 808 sub‑bass underpins modern hip‑hop, while keyboards and MIDI controllers trigger virtual instruments【22303822534023†L35-L98】.  Additional elements such as percussion and FX layers add depth; guitars and strings occasionally appear for melodic contrast.  Vocoders and vocal synthesizers process voices for robotic or ethereal effects【22303822534023†L35-L98】.  Increasingly, producers use AI tools to generate unique timbres and sequence patterns, blending human creativity with machine assistance.
+# Hip-Hop Instrumentation Playbook
+
+## Objective
+Build hard-hitting, vocal-forward beats with clear low-end translation across devices.
+
+## Core Palette
+- Drums: kick/snare/hat architecture with intentional swing.
+- Low end: 808 or bass instrument tuned and sidechain-managed.
+- Harmonic texture: keys, sampled chops, pads, or guitar fragments.
+- Ear candy: FX drops, vocal textures, reverse swells.
+
+## Production Rules
+- Prioritize kick/808 phase alignment.
+- Keep central vocal range uncluttered.
+- Humanize hats/percussion velocity for movement.
+
+## LLM Producer Guidance
+Request:
+- Drum pattern concepts per section.
+- Sound-selection brief (dark, dusty, glossy, aggressive).
+- Frequency-role map for each instrument.
+- Simplified mobile-mix checklist.
+
+## Quality Checklist
+- Does the beat knock at low and medium volume?
+- Is sub energy controlled between 30–80 Hz?
+- Are ad-lib and lead vocal spaces intentionally separated?

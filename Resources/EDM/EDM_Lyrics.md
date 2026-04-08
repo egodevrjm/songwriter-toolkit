@@ -1,1 +1,26 @@
-Although electronic dance music prioritizes rhythm and energy, lyrics still give songs identity and emotion.  Soundverse’s EDM writing guide notes that writers can input complete lyrics or simply describe a mood—like “a sunset rooftop party” or “a midnight drive through neon lights”—and let AI craft lines that fit the vibe【8889433507963†L70-L76】.  Effective EDM composition begins with a strong melodic hook and balances the dominant kick drum with layered synths and automation; producers emphasise the drop but use vocals and lyrical motifs to create anticipation【8889433507963†L128-L137】.  A typical dance track flows through an intro, build‑up, drop, breakdown and outro【8889433507963†L150-L156】, so lyrical phrases are concise and repetitive, often acting as mantras or calls to action that can be chanted by the crowd.  By aligning lyric placement with the track’s peaks and valleys, songwriters ensure that words enhance rather than distract from the music’s momentum.
+# EDM Lyrics Playbook
+
+## Objective
+Write concise, rhythmic lyric fragments that amplify drops and emotional payoff.
+
+## Core Principles
+- Fewer words, stronger phrases.
+- Prioritize phonetic punch over lyrical density.
+- Use repetition to build communal chant energy.
+
+## Lyric Strategies
+- Pre-drop line as emotional trigger.
+- Post-drop mantra for crowd recall.
+- High-contrast imagery (night/day, fire/ice, rise/fall).
+
+## LLM Writing Guidance
+Request:
+- 1-line hook bank (20 options).
+- Build/pre-drop scripts with rising tension.
+- Alternates optimized for vocal chops.
+- Versions for male/female/duet perspective.
+
+## Quality Checklist
+- Can lines be understood in loud club playback?
+- Is hook language instantly memorable?
+- Do words align with build/drop timing?

@@ -1,1 +1,26 @@
-Rock lyrics combine vivid storytelling with authenticity.  Soundverse’s rock songwriting guide encourages writers to use concrete imagery—painting scenes rather than stating emotions—and to ensure that phrasing flows naturally with the beat and melody【642572589319699†L58-L66】.  It notes that modern listeners value sincerity over perfect rhymes, so honest expression takes precedence over rigid rhyme schemes【642572589319699†L58-L67】.  Repetition is used strategically in choruses to reinforce key ideas and invite audience participation【642572589319699†L58-L69】.  Because rock evolved from blues, some songs adopt the AAB lyric pattern in which the first two lines of a verse repeat and the third line answers them, creating a call‑and‑response feel【940968025803547†L96-L123】.  This structure, combined with honest, image‑driven lyrics, allows rock songs to deliver emotional resonance and communal energy.
+# Rock Lyrics Playbook
+
+## Objective
+Deliver direct, high-impact writing with concrete imagery and emotional conviction.
+
+## Core Principles
+- Use plain language with attitude; avoid over-intellectual phrasing.
+- Build an anthemic chorus with repeatable, shouted lines.
+- Let verse details feel lived-in and specific.
+
+## Lyric Strategies
+- Contrast internal conflict (verse) with external declaration (chorus).
+- Use rhetorical questions and imperative lines for urgency.
+- Keep line lengths performance-friendly for high-energy delivery.
+
+## LLM Writing Guidance
+Request:
+- 3 chorus hooks in different intensity levels.
+- Verse rewrites for grit vs. vulnerability.
+- Optional AAB blues-style stanza variant.
+- Syllable-tight version for fast guitar-driven tempos.
+
+## Quality Checklist
+- Would lines feel authentic when yelled on stage?
+- Is the chorus quotable after one listen?
+- Are clichés replaced with concrete images?

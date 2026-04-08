@@ -1,1 +1,27 @@
-A jazz ensemble balances melodic and harmonic responsibilities between horns and the rhythm section.  Saxophones, trumpets and trombones carry melodies, harmonize and take improvised solos, often engaging in call‑and‑response dialogues.  The rhythm section—piano or guitar, upright bass and drums—provides harmonic support and groove: the pianist “comps” chords and improvises melodic fills, the bassist outlines the root movement and keeps the pulse, and the drummer maintains time while interacting dynamically with soloists【169201256217023†L71-L111】.  Guitarists may function like horns or comp chords alongside the piano.  Jazz instrumentation is flexible; small combos focus on intimate interplay, whereas big bands augment the horn sections for lush harmonies.  Regardless of size, each instrument listens and responds, creating collective improvisation that defines the genre.
+# Jazz Instrumentation Playbook
+
+## Objective
+Design ensembles where timbre, register, and interaction support improvisational dialogue.
+
+## Typical Roles
+- Melody voices: sax/trumpet/trombone/vocal.
+- Harmonic support: piano and/or guitar comping.
+- Bass: root motion + time feel anchoring.
+- Drums: pulse, texture, conversational accents.
+
+## Arrangement Principles
+- Avoid overcrowding midrange during solos.
+- Orchestrate call-and-response between sections.
+- Vary texture between head, solos, and shout moments.
+
+## LLM Producer Guidance
+Ask for:
+- Ensemble options (trio, quartet, quintet, big band-lite).
+- Voicing distribution by register.
+- Comping density recommendations per section.
+- Solo handoff cues and background figures.
+
+## Quality Checklist
+- Are instrumental roles distinct and complementary?
+- Does instrumentation evolve across sections?
+- Is there enough sonic space for soloists?

@@ -1,1 +1,30 @@
-Rock music builds on the verse–chorus forms of pop but adds instrumental flair and improvisation.  While many rock songs follow the familiar pattern of verses alternating with choruses, they often include guitar or instrumental solos that serve as expressive breaks between vocal sections【877073196254006†L126-L156】.  The genre’s roots in blues and folk mean that some compositions use 12‑bar blues progressions or strophic structures in which the same melody recurs with different lyrics【877073196254006†L126-L156】.  A&R Factory notes that rock arrangements revolve around drums, rhythm and lead guitars, bass and vocals, with occasional saxophones, violins or theremins broadening the texture【262725878057214†L16-L92】.  Rock performances frequently emphasize dynamics—building from soft verses to loud choruses—and may include improvisational sections where musicians trade solos before returning to the main theme.  This blend of structure and spontaneity gives rock its powerful drive and enduring appeal.
+# Rock Structure Playbook
+
+## Objective
+Build dynamic arrangements that reward live performance and emotional escalation.
+
+## Standard Form
+- Intro riff: 4–8 bars
+- Verse: 8–16 bars
+- Chorus: 8 bars
+- Verse 2: 8–16 bars
+- Chorus: 8 bars
+- Solo/bridge: 8–16 bars
+- Final choruses/outro: 8–24 bars
+
+## Structural Principles
+- Open with signature riff or hook quickly.
+- Use arrangement dynamics (quiet/loud contrast) as storytelling tool.
+- Place solo where energy needs re-ignition, not by habit.
+
+## LLM Planning Guidance
+Request:
+- Section-by-section intensity map.
+- Guitar arrangement notes (single-track vs. doubled walls).
+- Live version adaptation (extended intros, crowd chants).
+- Outro options (tag chorus, vamp, hard stop).
+
+## Quality Checklist
+- Is the peak energy point clearly designed?
+- Does the bridge/solo add new emotional information?
+- Can the structure translate to stage performance?

@@ -1,1 +1,27 @@
-Jazz harmony features sophisticated chord progressions and rich extensions.  The 12‑bar blues progression uses the I, IV and V chords in a cyclical pattern, often embellished with dominant seventh or ninth chords【698993246575214†L103-L121】.  In the 32‑bar AABA form, ii–V–I turnarounds connect sections and create a sense of forward motion; players frequently substitute chords or insert chromatic passing chords to add colour.  Extended harmonies—seventh, ninth, eleventh and thirteenth chords—are commonplace, and musicians spontaneously reharmonize progressions during improvisation.  While the underlying forms remain constant, the harmonic language evolves with each performer, making jazz both structured and ever‑changing.
+# Jazz Harmony Playbook
+
+## Objective
+Create harmonically rich progressions that support improvisation and narrative movement.
+
+## Core Principles
+- Functional movement (especially ii–V–I) remains foundational.
+- Extensions/alterations define color and tension level.
+- Reharmonization should preserve melodic identity.
+
+## Standard Devices
+- ii–V–I chains in major/minor.
+- Turnarounds for section resets.
+- Tritone substitutions for chromatic voice-leading.
+- Modal interchange for emotional shading.
+
+## LLM Composition Guidance
+Ask for:
+- Lead-sheet style chord charts with bar lines.
+- Guide-tone lines (3rds/7ths) between chords.
+- Beginner and advanced reharm options.
+- Solo-scale suggestions tied to each chord family.
+
+## Quality Checklist
+- Is voice-leading smooth between strong beats?
+- Do tensions resolve intentionally?
+- Can rhythm section comp this without ambiguity?

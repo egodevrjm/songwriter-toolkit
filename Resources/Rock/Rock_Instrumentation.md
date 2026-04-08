@@ -1,1 +1,28 @@
-The core of a rock band lies in its rhythm section and guitars.  A&R Factory explains that rock instrumentation typically includes drums—either acoustic kits or drum machines—rhythm and lead guitars, bass guitar and vocals【262725878057214†L16-L92】.  The rhythm guitar lays down chords and riffs while the lead guitar handles solos and melodic lines; bass anchors the harmony and locks in with the drums to drive the groove.  Amplifiers and effects pedals shape guitar tones, with distortion, overdrive, wah and reverb contributing to the genre’s signature sounds.  Keyboards or pianos may add harmonic depth, and some bands expand their palette with saxophones, violins, ukuleles or theremins【262725878057214†L67-L92】.  The interplay between instruments—particularly the conversation between guitar solos and vocal lines—gives rock its dynamic energy and makes live performances electrifying.
+# Rock Instrumentation Playbook
+
+## Objective
+Craft powerful band arrangements where rhythm section and guitars feel unified and intentional.
+
+## Core Palette
+- Drums: punch + room character.
+- Bass: supportive but melodic where useful.
+- Rhythm guitars: harmonic/riff engine.
+- Lead guitar/keys: melodic counterweight and hooks.
+- Vocals: central narrative and emotional driver.
+
+## Arrangement Rules
+- Lock kick and bass for chorus impact.
+- Use guitar layering for width, not clutter.
+- Reserve “all-in” density for key payoff moments.
+
+## LLM Producer Guidance
+Ask for:
+- Instrument responsibilities per section.
+- Tone descriptors (amp style, gain level, ambience).
+- Double-tracking and panning strategy.
+- Minimalist arrangement alternative for verses.
+
+## Quality Checklist
+- Does each instrument have a distinct role?
+- Is chorus width notably larger than verse?
+- Do lead elements avoid masking the vocal?
