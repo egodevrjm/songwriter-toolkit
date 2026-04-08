@@ -62,3 +62,19 @@ python3 tools/query_songwriting_corpus.py   --query "anthemic pop chorus about r
 
 This enables immediate prototyping without any external vector DB.
 
+
+## Web app: Songwriter
+
+Run a full local web app backed by this corpus:
+
+```bash
+python3 webapp/server.py
+```
+
+Then open `http://localhost:8000` and provide:
+- song goal/query
+- optional genre filters (e.g. `pop,country`)
+- optional topic filters (e.g. `hooks,lyrics`)
+
+The app retrieves the best-matching corpus chunks and generates a structured songwriting draft (concept, titles, verse, chorus, rewrite note) with source-backed matches.
+
