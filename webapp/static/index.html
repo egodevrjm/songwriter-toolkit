@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Songwriter</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>🎵 Songwriter</h1>
+    <p class="sub">Draft songs using the repository corpus (genre + topic aware).</p>
+
+    <section class="panel">
+      <label>What song do you want to write?</label>
+      <textarea id="query" rows="3" placeholder="e.g., an anthemic pop-country breakup hook with hopeful ending"></textarea>
+
+      <div class="row">
+        <div>
+          <label>Genres (comma-separated)</label>
+          <input id="genres" placeholder="pop,country" />
+        </div>
+        <div>
+          <label>Topics (comma-separated)</label>
+          <input id="topics" placeholder="hooks,lyrics,melody" />
+        </div>
+        <div>
+          <label>Top K</label>
+          <input id="topk" type="number" value="5" min="1" max="10" />
+        </div>
+      </div>
+
+      <button id="go">Generate Song Draft</button>
+    </section>
+
+    <section id="output" class="panel hidden">
+      <h2 id="concept"></h2>
+      <h3>Title ideas</h3>
+      <ul id="titles"></ul>
+
+      <h3>Verse</h3>
+      <pre id="verse"></pre>
+
+      <h3>Chorus</h3>
+      <pre id="chorus"></pre>
+
+      <h3>Rewrite note</h3>
+      <p id="rewrite"></p>
+
+      <h3>Retrieved matches</h3>
+      <div id="matches"></div>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>
